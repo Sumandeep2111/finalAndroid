@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">androidAssignment_764942</string>
+
+    <string name="key"></string>
+    <string name="api_key_places"></string>
+
+    <string-array name="typesofmaps">
+        <item>Choose Map Type</item>
+        <item>Hybrid</item>
+        <item>Default</item>
+        <item>Terrain</item>
+        <item>Satellite</item>
+
+    </string-array>
+</resources>
